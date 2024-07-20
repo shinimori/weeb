@@ -1,0 +1,115 @@
+body{
+    background-color:rgb(253, 207, 246);
+}
+
+.foto{
+    margin-right: 900px;
+}
+.fotoUno{
+    margin-left: 10px;
+    padding: 5px;
+    margin-top: 10px;
+    height: 580px;
+    width: 400px;  
+}
+.secundario{
+    background-color:rgba(255, 255, 255, 0.212);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex: 1;
+    margin-top: -590px;
+    margin-left: 420px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+}
+.imagenUno{
+    width: 240px;
+    height: 240px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.terciario{
+    
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 420px;
+}
+   
+.uno{
+    background-color:rgb(241, 169, 232);
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-right: 200px;
+    border-radius: 10px;
+    
+}
+
+
+.dos{
+    background-color:rgb(231, 139, 219);
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-right: 200px;
+    border-radius: 10px;
+}
+.tres{
+    background-color:rgb(253, 120, 235);
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 10px;
+}
+.cuaternario{
+    background-color:rgba(255, 255, 255, 0.212);
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 420px;
+    border-radius: 20px;
+}
+.quinto{
+    
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 420px;
+}
+.cuatro{
+    background-color:rgb(255, 103, 235);
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-right: 200px;
+    border-radius: 10px;
+}
+
+.cinco{
+    background-color:rgb(255, 70, 230);
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-right: 200px;
+    border-radius: 10px;
+}
+.seis{ 
+    background-color:rgb(255, 39, 226);
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 10px;
+}
+.mensaje{
+    background-color:rgba(255, 255, 255, 0.212);
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    justify-content: flex-end;
+    margin-top: 10px;
+    margin-left:420px ;
+}
